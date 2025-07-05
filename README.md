@@ -4,9 +4,6 @@
 
 ---
 
-<a href="https://discord.gg/ZdYqBsgaNB">
-  <img src="https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white" alt="Discord" width="340" />
-</a>
 
 ## 🌍 Présentation
 
@@ -38,7 +35,9 @@ Accompagné d’un site web moderne et intuitif, Wonder Quest vous plonge dans u
 ## 📢 Rejoignez-nous !
 
 - Serveur Minecraft : Bientôt
-- Discord officiel : [Rejoindre le Discord](https://discord.gg/ZdYqBsgaNB)
+- <a href="https://discord.gg/ZdYqBsgaNB">
+  <img src="https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white" alt="Discord" width="340" />
+</a>
 - Site web : [Visitez le site officiel](https://as4mc.github.io/WonderQuest)
 
 ---
