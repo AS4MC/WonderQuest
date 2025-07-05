@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="fr" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wonder Quest - Animations & Illustrations</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- AOS CSS -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+  <style>
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #1e293b;
+    }
+    ::-webkit-scrollbar-thumb {
+      background-color: #facc15;
+      border-radius: 20px;
+      border: 3px solid #1e293b;
+    }
+  </style>
+</head>
+<body class="bg-gray-900 text-gray-100 font-sans flex flex-col min-h-screen">
+
+  <!-- Navbar -->
+  <header class="sticky top-0 bg-gray-800/95 backdrop-blur-md shadow-lg z-50">
+    <div class="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
+      <div class="flex items-center gap-4">
+        <img src="WQ_Logo.png" alt="Logo Wonder Quest" class="w-14 h-14 object-contain" />
+        <h1 class="text-4xl font-extrabold tracking-tight select-none text-yellow-400">Wonder Quest</h1>
+      </div>
+      <nav class="flex items-center gap-6 text-lg font-semibold">
+        <a href="mods.html" class="relative text-gray-300 hover:text-yellow-400 transition">Mods</a>
+        <a href="plugins.html" class="relative text-gray-300 hover:text-yellow-400 transition">Plugins</a>
+        <a href="https://discord.gg/ZdYqBsgaNB" target="_blank" rel="noopener"
+           class="bg-yellow-400 text-gray-900 px-5 py-2 rounded-full font-bold hover:bg-yellow-500 transition shadow-md">
+          Rejoindre Discord
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="flex-grow flex flex-col justify-center items-center text-center px-6 py-32 max-w-5xl mx-auto">
+    <h2 class="text-6xl font-extrabold leading-tight mb-6 text-yellow-400 drop-shadow-lg" data-aos="fade-down" data-aos-duration="1000">
+      Vivez l’Expérience Minecraft Ultime
+    </h2>
+    <p class="max-w-3xl text-lg md:text-xl text-gray-300 leading-relaxed mb-10" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+      Plongez dans un univers Minecraft réinventé, où chaque pas vous entraîne dans une aventure intense mêlant exploration sauvage, survie stratégique et entraide communautaire.<br />
+      Rejoignez Wonder Quest et vivez une expérience unique, riche en découvertes, en défis et en moments inoubliables.
+    </p>
+    <a href="https://discord.gg/ZdYqBsgaNB" target="_blank" rel="noopener"
+       class="inline-block bg-yellow-400 text-gray-900 font-extrabold rounded-full px-10 py-4 shadow-lg hover:bg-yellow-500 transition-transform transform hover:scale-105"
+       data-aos="zoom-in" data-aos-duration="800" data-aos-delay="600">
+      Rejoindre la communauté
+    </a>
+  </section>
+
+  <main class="max-w-7xl mx-auto px-6 pb-24 space-y-24">
+
+    <!-- Mods Section -->
+    <section>
+      <h3 class="text-4xl font-bold mb-10 border-b-4 border-yellow-400 inline-flex items-center gap-4 pb-2 tracking-wide" data-aos="fade-right" data-aos-duration="800">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-yellow-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M11 17a4 4 0 100-8 4 4 0 000 8z" />
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6" />
+        </svg>
+        🧩 Mods d'Exception pour un Monde Unique
+      </h3>
+      <div class="grid gap-8 md:grid-cols-2 max-w-5xl mx-auto">
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9.75 17L15 12l-5.25-5" />
+            </svg>
+            TerraForged
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Génération réaliste de paysages naturels et grandioses pour une exploration sans limite.</p>
+        </article>
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+            </svg>
+            Biomes O’ Plenty
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Des centaines de biomes riches et variés pour rendre chaque zone unique et surprenante.</p>
+        </article>
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3" />
+            </svg>
+            Serene Seasons
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Des saisons dynamiques qui modifient l'environnement et vos stratégies de survie.</p>
+        </article>
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M17 9V7a4 4 0 10-8 0v2" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 14v7" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M8 14v7" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M16 14v7" />
+            </svg>
+            Système de chasse & RPG
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Un système complet de chasse, trophées et progression pour une expérience intense et gratifiante.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Plugins Section -->
+    <section>
+      <h3 class="text-4xl font-bold mb-10 border-b-4 border-yellow-400 inline-flex items-center gap-4 pb-2 tracking-wide" data-aos="fade-left" data-aos-duration="800">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10 text-yellow-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M11 12h7m-7 4h7m-7-8h7m-3-6h-4a2 2 0 00-2 2v4H7a2 2 0 00-2 2v6a2 2 0 002 2h10a2 2 0 002-2v-6a2 2 0 00-2-2h-1V8a2 2 0 00-2-2z" />
+        </svg>
+        🔧 Plugins Puissants pour Confort & Sécurité
+      </h3>
+      <div class="grid gap-8 md:grid-cols-2 max-w-5xl mx-auto">
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 10h16M4 14h16M4 18h16" />
+            </svg>
+            GriefDefender
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Votre territoire et vos créations sont protégés contre tout grief grâce à une protection robuste et flexible.</p>
+        </article>
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4" />
+            </svg>
+            LuckPerms
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Contrôle précis des permissions pour garantir une gestion claire et juste du serveur.</p>
+        </article>
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 17v-6a2 2 0 012-2h2a2 2 0 012 2v6" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M9 21h6" />
+            </svg>
+            EssentialsX
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Commandes essentielles, téléportation, spawn, et bien plus pour un confort de jeu optimal.</p>
+        </article>
+        <article class="bg-gray-800 rounded-2xl p-6 shadow-lg hover:shadow-yellow-400 transition-shadow"
+                 data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">
+          <h4 class="text-2xl font-semibold mb-3 text-yellow-400 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+            Vault & Economy
+          </h4>
+          <p class="text-gray-300 leading-relaxed">Gestion d’économie fluide pour rendre les échanges et le commerce vivants et équilibrés.</p>
+        </article>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-gray-400 py-8 text-center">
+    <p>© 2025 Wonder Quest — Tous droits réservés.</p>
+  </footer>
+
+  <!-- AOS JS -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      once: true,
+      easing: 'ease-in-out',
+      duration: 800,
+      offset: 100,
+    });
+  </script>
+</body>
+</html>
