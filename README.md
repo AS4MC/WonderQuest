@@ -1,8 +1,7 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="WQ_Logo.png" width="120" alt="Logo Wonder Quest" />
-  <h1 style="font-size: 3rem; font-weight: bold; margin: 0;">Wonder Quest</h1>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="WQ_Logo.png" alt="Logo Wonder Quest" width="120" />
+  <span style="font-size: 3rem; font-weight: 900; color: #f8f8f2;">Wonder Quest</span>
 </div>
-
 
 
 
