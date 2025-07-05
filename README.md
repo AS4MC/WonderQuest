@@ -40,7 +40,7 @@ Accompagné d’un site web moderne et intuitif, Wonder Quest vous plonge dans u
 
 - Serveur Minecraft : Bientôt
 
-- Site web : [Visitez le site officiel] (https://as4mc.github.io/WonderQuest)
+- Site web : [Visitez le site officiel](https://as4mc.github.io/WonderQuest)
 
 ---
 
