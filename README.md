@@ -3,7 +3,7 @@
 
 
 
-<a href="https://discord.gg/ZdYqBsgaNB">https://github.com/AS4MC/WonderQuest/blob/main/README.md
+<a href="https://discord.gg/ZdYqBsgaNB">
   <img src="https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white" alt="Discord" width="340" />
 </a>
 
