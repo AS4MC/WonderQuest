@@ -1,8 +1,9 @@
-# 🎮 Wonder Quest
+<img src="WQ_Logo.png" width="120" alt="Description" /> # 🎮 Wonder Quest
 
-<img src="WQ_Logo.png" width="120" alt="Description" />
 
-[![Discord](https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white)](https://discord.gg/ZdYqBsgaNB)
+<a href="https://discord.gg/ZdYqBsgaNB">
+  <img src="https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white" alt="Discord" width="180" />
+</a>
 
 ---
 
