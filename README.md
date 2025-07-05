@@ -46,7 +46,7 @@ Accompagné d’un site web moderne et intuitif, Wonder Quest vous plonge dans u
 ## 📢 Rejoignez-nous !
 
 - Serveur Minecraft : Bientôt
-- Discord officiel : [Rejoindre](https://discord.gg/ZdYqBsgaNB)
+- Discord officiel : [Rejoindre le Discord](https://discord.gg/ZdYqBsgaNB)
 - Site web : [Visitez le site officiel](https://as4mc.github.io/WonderQuest)
 
 ---
