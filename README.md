@@ -1,13 +1,5 @@
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <img src="WQ_Logo.png" alt="Logo Wonder Quest" width="120" />
-    </td>
-    <td style="border: none; vertical-align: middle; padding-left: 15px;">
-      <span style="font-size: 4rem; font-weight: 900; font-weight: bolder; color: #f8f8f2;">Wonder Quest</span>
-    </td>
-  </tr>
-</table>
+![Bannière Wonder Quest](WQ_Banner.png)
+
 
 
 
