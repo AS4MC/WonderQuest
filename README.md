@@ -1,7 +1,11 @@
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="WQ_Logo.png" width="120" alt="Logo Wonder Quest" />
-  <h1 style="font-size: 3rem; font-weight: bold; margin: 0;">Wonder Quest</h1>
-</div>
+<table>
+  <tr>
+    <td><img src="WQ_Logo.png" width="120" alt="Logo Wonder Quest" /></td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      <h1 style="font-size: 3rem; font-weight: bold; margin: 0;">Wonder Quest</h1>
+    </td>
+  </tr>
+</table>
 
 
 <a href="https://discord.gg/ZdYqBsgaNB">
