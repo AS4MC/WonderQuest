@@ -1,8 +1,6 @@
 ![Bannière Wonder Quest](WQ_Banner_rmv.png)
 
 
-
-
 <a href="https://discord.gg/ZdYqBsgaNB">
   <img src="https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white" alt="Discord" width="340" />
 </a>
