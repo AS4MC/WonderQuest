@@ -1,11 +1,14 @@
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td><img src="WQ_Logo.png" width="120" alt="Logo Wonder Quest" /></td>
-    <td style="vertical-align: middle; padding-left: 10px;">
+    <td style="border: none; padding: 0;">
+      <img src="WQ_Logo.png" width="120" alt="Logo Wonder Quest" />
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px; border: none;">
       <h1 style="font-size: 3rem; font-weight: bold; margin: 0;">Wonder Quest</h1>
     </td>
   </tr>
 </table>
+
 
 
 <a href="https://discord.gg/ZdYqBsgaNB">
