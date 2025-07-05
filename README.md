@@ -1,8 +1,11 @@
-<img src="WQ_Logo.png" width="120" alt="Description" /> # 🎮 Wonder Quest
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="WQ_Logo.png" width="120" alt="Logo Wonder Quest" />
+  <h1 style="font-size: 3rem; font-weight: bold; margin: 0;">Wonder Quest</h1>
+</div>
 
 
 <a href="https://discord.gg/ZdYqBsgaNB">
-  <img src="https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white" alt="Discord" width="180" />
+  <img src="https://img.shields.io/badge/Discord-Rejoindre%20le%20serveur-7289da?logo=discord&logoColor=white" alt="Discord" width="340" />
 </a>
 
 ---
